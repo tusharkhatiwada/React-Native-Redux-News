@@ -1,0 +1,3 @@
+rootProject.name = 'rnReduxNews'
+
+include ':app'
